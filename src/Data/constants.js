@@ -33,7 +33,7 @@ export const projects = [
     },
     {
       id: 1,
-      img: "http://aavmandirmarg.ndmc.gov.in/Content/Uploads/logo.png",
+      img: "https://upload.wikimedia.org/wikipedia/en/4/45/New_Delhi_Municipal_Council_logo.png",
       school: "Atal Adarsh Bal Vidyalaya, Mandir Marg",
       date: "2019 - 2021",
       grade: "92.2%",
