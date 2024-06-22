@@ -27,7 +27,7 @@ export const projects = [
       img: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Netaji_Subhas_University_of_Technology.svg/640px-Netaji_Subhas_University_of_Technology.svg.png",
       school: "Netaji Subhas University of Technology",
       date: "2021 - 2025",
-      grade: "6.45 CGPA",
+      grade: "7.01 CGPA",
       desc: "I am currently pursuing a Bachelor's degree in Insturmentaion and Control at NSUT, Delhi. I have completed 4 semesters. I have completed courses in Data Structures, Algorithms, Database Management Systems and Microprocessor, among others.",
       degree: "Bachelor of Technology - BTech, Insturmentaion and Control Engineering",
     },
