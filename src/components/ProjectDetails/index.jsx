@@ -7,7 +7,7 @@ const Container = styled.div`
 width: 100%;
 height: 100%;
 position: absolute;
-top: 0;
+top: 10;
 left: 0;
 background-color: #000000a7;
 display: flex;
