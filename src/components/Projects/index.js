@@ -11,6 +11,7 @@ const Container = styled.div`
     flex-direction: column;
     justify-content: center;
     position: relative;
+    padding: 28px;
     z-index: 1;
     align-items: center;
     clip-path: polygon(0 0, 100% 0, 100% 100%,100% 98%, 0 100%);

@@ -5,6 +5,7 @@ import colorSharp from "../assets/img/color-sharp.png"
 
 
 const Container = styled.div`
+padding: 28px;
 display: flex;
 flex-direction: column;
 justify-content: center;
